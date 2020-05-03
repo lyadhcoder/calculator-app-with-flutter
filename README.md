@@ -1,4 +1,4 @@
-# calculator
+# A simple calculator with Flutter
 
 A new Flutter application.
 
